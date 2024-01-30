@@ -14,29 +14,43 @@ Currently, two official plugins are available:
 
 ## Project 2 Full Stack Application - Challenge Guideline
 
-Projects play a key role in your journey to becoming a full-stack web developer. As you enter the last phase of the boot camp, you’ll begin to apply for development jobs. If you want to land interviews, your portfolio must feature high-quality deployed examples of your work—and you can use your finished projects for that very purpose.
+Projects have played a key role in your journey to becoming a full-stack web developer. As you apply for development jobs, your portfolio is absolutely vital to opening doors to opportunities. Your portfolio showcases high-quality deployed examples of your work, and you can use your finished projects for that very purpose.
 
-As your first opportunity to show employers your collaborative skills and coding abilities, this particular project will be a focal point of your portfolio. Employers want to see what you can do, but they also want to see how you work with other developers. The more examples of deployed collaborative work you have in your portfolio, the more likely you are to get an interview and a job. That's why it is important for this project to be added to your portfolio.
+This project is a fantastic opportunity to show employers your collaborative skills and coding abilities, especially in the context of a scalable, user-focused MERN app. Remember that employers want to know what you can do, but they also want to know how you work with other developers. The more examples of deployed collaborative work you have in your portfolio, the more likely you are to get an interview and a job.
 
 ## Project Requirements
 
-You and your group will use everything you’ve learned over the past six weeks to create a real-world full-stack application that you’ll be able to showcase to potential employers. The user story and acceptance criteria will depend on the project that you create, but your project must fulfil the following requirements:
+With your group, you’ll again conceive and execute a design that solves a real-world problem. In creating your first collaborative MERN-stack single-page application, you’ll combine a scalable MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end, implementing user authentication with JWT to build a user-focused platform. You’ll continue to build on the agile development methodologies you’ve used throughout this course. These include storing your project code in GitHub, managing your work with a project management tool, and implementing feature and bug fixes using the Git branch workflow and pull requests.
 
-* Use Node.js and Express.js to create a RESTful API.
-* Use Handlebars.js as the templating engine.
-* Use MySQL and the Sequelize ORM for the database.
-* Have both GET and POST routes for retrieving and adding new data.
-* Be deployed using Heroku (with data).
-* Use at least one new library, package, or technology that we haven’t discussed.
+For this project, you should start from scratch. Doing so will allow you to revisit your front-end abilities in the context of React and solidify your understanding of working with multiple servers in a MERN application. Your skills have continued to improve since the first two projects, so naturally your approach will be different considering the experience you’ve gained with each new application you’ve built.
+
+Your group will use everything you’ve learned throughout this course to create a MERN-stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand. This project will provide you with the best opportunity to demonstrate your problem-solving skills, which employers will want to observe. Once again, the user story and acceptance criteria will depend on the project that you create, but your project must fulfill the following requirements:
+
+* Use React for the front end.
+
+* Use GraphQL with a Node.js and Express.js server.
+
+* Use MongoDB and the Mongoose ODM for the database.
+
+* Use queries and mutations for retrieving, adding, updating, and deleting data.
+
+* Be deployed using Render (with data).
+
 * Have a polished UI.
+
 * Be responsive.
+
 * Be interactive (i.e., accept and respond to user input).
-* Have a folder structure that meets the MVC paradigm.
-* Include authentication (express-session and cookies).
-* Protect API keys and sensitive information with environment variables.
-* Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
-* Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
-* Finally, you should add your project to the portfolio that you created in Module 2.
+
+* Include authentication (JWT).
+
+* Protect sensitive API key information on the server.
+
+* Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class and id naming conventions, indentation, high-quality comments, and so on).
+
+* Have a high-quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+
+Finally, you should add your project to the portfolio that you created in Module 20.
 
 ## User Story
 
