@@ -7,10 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Group Project 2: Flash Card App
+# Group Project 2: Fitness-Tracker
 
-* [Github Repository](https://github.com/JackW2023/FlashCard-APP)
-* [Deployed Heroku App](https://calm-island-50179-67f2dfd210f1.herokuapp.com/)
+* [Github Repository](https://github.com/latacui2050/fitness-tracker)
+* [Deployed Render App](https://calm-island-50179-67f2dfd210f1.herokuapp.com/)
 
 ## Project 2 Full Stack Application - Challenge Guideline
 
@@ -55,14 +55,14 @@ Finally, you should add your project to the portfolio that you created in Module
 ## User Story
 
 ```
-I WANT TO BE SUCCESSFUL.
-As a user, I am studying many topics for school but it can be hard to keep track of my notes. I want to create flashcards and quiz myself on what I've learned. I want it accessible and to never lose my flashcards.
-I want to be successful.
+I WANT TO BE FIT AND HEALTHY.
+As someone working towards my fitness goals, I would like to build a tool with which I can easily track my workout progress, 
+mark the milestones, and meet more fitness pals.
 ```
 
 ## Purpose
 
-This app is designed to help students or self-learners to practice and test their knowledge through customized mock quizzes with flash cards.
+This app is designed to allow users to log and track specific workout sessions, including details such as exercise type, duration, intensity, and repetitions.
 
 
 ## Important Statement About App Completeness
@@ -73,41 +73,13 @@ Due to time constraints, the app is not able to be finished in entirety; only pa
 
 * Create new user account
   * Log in next time
-* Create flash cards
-  * Edit flash cards
-  * Save flash cards
-  * Delete flash cards
-* Generate quizzes
+*Activity Tracking
+  * Monitor daily activities such as steps taken, distance traveled, and calories burned.
+  * Allow users to log and track specific workout sessions, including details such as exercise type, duration, intensity, and repetitions.
+  * Enable users to set fitness goals, whether they are related to weight loss, muscle gain, running distance, or other health-related objectives.
+  * Include features for logging and monitoring dietary intake, allowing users to track their calorie consumption, macronutrient balance, and hydration levels.
 
 
-## Pages Breakdown(Mock-up)
-
-![](public/images/pic1.png)
-![](public/images/pic2.png)
-
-Login page for returning users. For first-timers, click “sign up here”(underlined in red) to create a new account.
-
-![](public/images/pic3.png)
-
-Enters the home page. Go to the archive for saved flash cards or make a new deck.
-
-![](public/images/pic4.png)
-
-The front and back of a titled flash card. The user can delete, add it to the collection or make another.
-
-![](public/images/pic5.png)
-![](public/images/pic6.png)
-
-Two different layouts of the card collection, either showing both sides or the fronts.
-
-![](public/images/pic7.png)
-
-The flash card upon single click. Botton below for quiz generation.
-
-![](public/images/pic8.png)
-![](public/images/pic9.png)
-
-The quiz is started.
 
 ## Credits
 * UCB Instructor

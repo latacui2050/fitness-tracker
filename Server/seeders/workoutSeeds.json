@@ -1,0 +1,23 @@
+[
+    {
+        "workoutText": "I like this workout!",
+        "name": "Frank",
+          "createdAt":"{% now 'iso-8601', '' %}"
+    },
+    {
+        "workoutText": "I dont like this workout!",
+        "name": "Tim",
+            "createdAt":"{% now 'iso-8601', '' %}"
+    },
+    {
+        "workoutText": "I like this workout!",
+        "name": "Edward",
+          "createdAt":"{% now 'iso-8601', '' %}"
+    },
+    {
+        "workoutText": "I like this workout!",
+        "name": "Alan",
+          "createdAt":"{% now 'iso-8601', '' %}"
+
+    }
+]
